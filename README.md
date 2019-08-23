@@ -1,2 +1,1 @@
-# server_config_file
-服务器配置文件
+这是django+nginx项目的配置文件
